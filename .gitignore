@@ -1,0 +1,121 @@
+# Diretórios comuns
+node_modules/
+dist/
+build/
+tmp/
+temp/
+out/
+bin/
+obj/
+
+# Arquivos temporários do sistema operacional
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.exe
+*.dll
+*.so
+*.dylib
+*.pdb
+
+# Arquivos de log
+*.log
+*.log.*
+*.trace
+
+# Arquivos de backup
+*.bak
+*.swp
+*.swo
+*.tmp
+*.temp
+
+# Configurações de IDEs e editores
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.user
+*.crunch*
+*.gcode
+
+# Arquivos de configuração específicos de linguagem
+.env
+*.env
+.env.local
+.env.*.local
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.class
+*.jar
+*.war
+*.ear
+
+# Arquivos de pacotes e dependências
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+*.lock
+
+# Artifacts de build
+*.apk
+*.aab
+*.app
+*.zip
+*.tar.gz
+*.rar
+*.tgz
+*.tar
+*.7z
+*.iso
+
+# Diretórios de documentação
+docs/
+*.md
+
+# Arquivos de banco de dados
+*.db
+*.sqlite
+*.sql
+*.db-journal
+
+# Arquivos específicos de sistema de controle de versão
+*.orig
+*.rej
+*.merge_file*
+*.orig_file*
+*~.nib
+
+# Arquivos temporários de compilação e execução
+*.pid
+*.seed
+*.pid.lock
+
+# Arquivos de chave e certificados
+*.pem
+*.crt
+*.key
+
+# Arquivos de cache e configuração
+*.cache
+*.config
+.cache/
+config/
+
+# Outros arquivos específicos de projetos
+*.iml
+*.ipr
+*.iws
+*.hprof
+*.sublime-project
+*.sublime-workspace
+*.tmproj
+*.tsbuildinfo
